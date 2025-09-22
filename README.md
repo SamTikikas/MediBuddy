@@ -39,3 +39,7 @@
 ### Installation
 
 1. **Clone the repository**
+2. git clone https://github.com/yourusername/crypto-dashboard.git
+cd crypto-dashboard
+
+
