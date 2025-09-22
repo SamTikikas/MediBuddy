@@ -1,4 +1,4 @@
-# 🚀 Fast-Loading Crypto Dashboard
+<img width="1916" height="951" alt="image" src="https://github.com/user-attachments/assets/7885ab5d-ccca-4ac1-b698-ffc0e724e7e9" /># 🚀 Fast-Loading Crypto Dashboard
 
 ![React](https://img.shields.io/badge/React-18.2.0-blue?style=flat&logo=react)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -53,7 +53,7 @@ cd crypto-dashboard
 ## 📱 **Screenshots**
 
 ### Dashboard View
-![Dashboard](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Dashboard+View)
+<img width="1916" height="951" alt="image" src="https://github.com/user-attachments/assets/68591040-018c-43b0-bf61-be222ec864d9" />
 
 ### Market Highlights
 ![Highlights](https://via.placeholder.com/800x400/059669/FFFFFF?text=Market+Highlights)
